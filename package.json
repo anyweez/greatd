@@ -1,0 +1,23 @@
+{
+  "name": "greatd",
+  "version": "1.0.0",
+  "description": "Quick Iron Yard progress reports",
+  "main": "greatd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anyweez/greatd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anyweez/greatd/issues"
+  },
+  "homepage": "https://github.com/anyweez/greatd#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1"
+  }
+}
